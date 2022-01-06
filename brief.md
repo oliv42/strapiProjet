@@ -27,3 +27,5 @@ Pour la deadline, ils nous mettent un peu de pression : semaine prochaine, ils v
 Éclate-toi !
 
 Mich'
+
+PS : David a laissé [un petit mémo pour installer Strapi](../memo.md)
