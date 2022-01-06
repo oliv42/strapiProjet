@@ -22,4 +22,4 @@ _Et voilà_.
 
 Comme nous le dit le script d'installation, il va falloir se déplacer dans le dossier créé : `cd blog`, puis lancer le programme Node.js `npm run develop`.
 
-Ensuite, la donc sera votre amie pour manipuler l'interface d'administration : https://docs.strapi.io/developer-docs/latest/getting-started/quick-start.html#%F0%9F%9B%A0-part-b-build-your-content
+Ensuite, la doc sera votre amie pour manipuler l'interface d'administration : https://docs.strapi.io/developer-docs/latest/getting-started/quick-start.html#%F0%9F%9B%A0-part-b-build-your-content
